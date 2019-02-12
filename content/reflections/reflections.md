@@ -63,8 +63,10 @@ https://www.cio.com/article/2386558/data-protection/compliance-vs--risk-in-enter
             <img src="/img/slide4.png">    
         </td>
     </tr>
-</table>        
-     
+</table>
+
+<a href="{{ .Page.Site.BaseUrl }}/{{ (.Resources.GetMatch "mylogo.png").Content | base64Encode }}"/>
+
 <h2>SLO 4: Demonstrate effective collaboration and communication skills</h2>
 <p>Through the presentation referenced above, I was able to demonstrate that I can clearly communicate the key impacts and consequences of security vulnerabilities and potential threats to an audience. In this case, the potential threats to a system is a DDoS SYN flood attack and the impact is negatively affecting the availability of the server or network. The audience that I delivered to was our class. As previously mentioned, my feedback for the presentation was the I went over my allocated time. Therefore, I will need to make an intentional effort to be my concise in the delivery of my content in order to more effectively communicate key points.</p>
 <p>Our presentation required us to effectively collaborate and communicate in order to research, prepare and deliver our presentation successfully. This involved utilizing Microsoft Teams chat as well as Microsoft Planner to organize our research as well as who would be presenting which section. As seen below, I believe that our team was quite proactive at communicating what needed to be done in terms of both delegating research and presentation delivery. In retrospect, it would have been desirable to have decided who was undertaking which section during class, as this would have been much more effective than attempting to do this via chat. Moving forward, I will attempt to make a more intentional effort to have key discussions and decisions made whilst we are together in class for group assignments such as these.</p>
