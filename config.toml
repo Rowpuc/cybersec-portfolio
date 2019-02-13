@@ -1,4 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Rowan Puckeridge"
+baseurl = "http://example.org"
+title = "Cyber Security"
+author = "Rowan Puckeridge"
+canonifyurls = true
+paginate = 3
 theme = "aether"
+
+[params]
+brand = "Rowan Puckeridge"
+description = "aether Hugo theme for blogs"
